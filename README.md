@@ -1,0 +1,2 @@
+# ShimakazeBot
+a Discord bot!
